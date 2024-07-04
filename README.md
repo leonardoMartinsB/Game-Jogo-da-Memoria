@@ -1,3 +1,4 @@
 # Game
 Jogo da memória 
-https://leonardomartinsb.github.io/Game/
+https://github.com/leonardoMartinsB/Game-Jogo-da-Memoria
+
